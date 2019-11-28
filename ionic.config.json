@@ -1,5 +1,7 @@
 {
   "name": "pHersonalApp",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
